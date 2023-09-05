@@ -84,7 +84,7 @@ plugins:
 nav:
     - Home: index.md
     - Numpy:
-        - 100_numpy_exercises.ipynb
+        - 100_Numpy_exercises.ipynb
         - 100_numpy_exercises_solution.ipynb
 
 
