@@ -1,6 +1,11 @@
+*.csv.gz
+*.parquet
+*.jl
+*.f
+*.pkl
+*__pycache__/
+.DS_Store
 .ipynb_checkpoints/
-__pycache__
-venv
-.idea
-.vscode
-Untitled.ipynb
+Studies/
+/.idea/
+vizzu/
